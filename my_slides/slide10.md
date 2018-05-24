@@ -228,7 +228,7 @@ V_{\alpha }=-\frac{1}{R}\left[{\left(\frac{\omega_y \omega^c_x}{\Omega^2_y}\righ
 
 `
 \[
-\frac{1}{{\tau }_{\alpha }}={\Gamma }_{\alpha }\frac{1}{\left|k_x\right|},\;
+\frac{1}{\tau_\alpha} = \Gamma_\alpha \frac{1}{\left|k_x\right|},\;
 \]
 `
 
