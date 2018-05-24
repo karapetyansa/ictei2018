@@ -220,7 +220,7 @@ $\Delta_c$ - сдвиг энергии электрона в поперечно�
 
 `
 \[
-V_{\alpha }=-\frac{1}{R}\left[{\left(\frac{{\omega }_y{\omega }^c_x}{{\Omega }^2_y}\right)}^2\frac{m_y}{m_x}\frac{{\hbar }^2k^2_x}{m_x}+\hbar {\omega }_y\left(\frac{{\omega }_y}{{\Omega }_y}\right)\left(n+\frac{1}{2}\right)+\hbar {\omega }_z\left(m+\frac{1}{2}\right)+2{\Delta }_c\right]
+V_{\alpha }=-\frac{1}{R}\left[{\left(\frac{\omega_y \omega^c_x}{\Omega^2_y}\right)}^2\frac{m_y}{m_x}\frac{\hbar^2k^2_x}{m_x}+\hbar \omega_y \left(\frac \omega_y}\Omega_y \right)\left(n+\frac{1}{2} \right)+\hbar \omega_z\left(m+\frac{1}{2}\right)+2\Delta_c \right]
 \]
 `
 
