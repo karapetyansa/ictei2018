@@ -178,7 +178,7 @@ U(z)=\frac{m_e \omega^2 }{2} z^2 +eEz
 <br>
 `
 \[
-E_{k_x,n,m}=\frac{{\hbar }^2k^2_x}{2m^*_x}+\hbar {\Omega }_y\left(n+\frac{1}{2}\right)+\hbar {\omega }_z\left(m+\frac{1}{2}\right)-{\Delta } 
+E_{k_x,n,m}=\frac{{\hbar }^2k^2_x}{2m^*_x}+\hbar \Omega_y \left(n+\frac{1}{2}\right)+\hbar \omega_z\left(m+\frac{1}{2}\right)- \Delta 
 \]
 `
 <br>
